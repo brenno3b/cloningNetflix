@@ -1,5 +1,7 @@
 # cloningNetflix
 
+![](screenshots/Screenshot.png)
+
 ## Sobre o projeto
 Estava a procurar um projeto para aprender [React.JS](https://pt-br.reactjs.org/)
 e também aprender mais em geral sobre HTML e CSS. Foi então
